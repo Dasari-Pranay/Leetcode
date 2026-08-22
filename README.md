@@ -15,9 +15,9 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-52-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-53-3b82f6?style=for-the-badge)
 &nbsp;
-![Easy](https://img.shields.io/badge/Easy-25-22c55e?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-26-22c55e?style=for-the-badge)
 &nbsp;
 ![Medium](https://img.shields.io/badge/Medium-23-f59e0b?style=for-the-badge)
 &nbsp;
@@ -27,12 +27,12 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **25** | 48% |
-| 🟡 Medium | **23** | 44% |
+| 🟢 Easy | **26** | 49% |
+| 🟡 Medium | **23** | 43% |
 | 🔴 Hard | **4** | 8% |
-| **Total** | **52** | — |
+| **Total** | **53** | — |
 
-🔥 **Latest Solved:** `Reverse Linked List`
+🔥 **Latest Solved:** `Middle of the Linked List`
 
 ---
 
