@@ -15,11 +15,11 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-56-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-57-3b82f6?style=for-the-badge)
 &nbsp;
 ![Easy](https://img.shields.io/badge/Easy-28-22c55e?style=for-the-badge)
 &nbsp;
-![Medium](https://img.shields.io/badge/Medium-24-f59e0b?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-25-f59e0b?style=for-the-badge)
 &nbsp;
 ![Hard](https://img.shields.io/badge/Hard-4-ef4444?style=for-the-badge)
 
@@ -27,12 +27,12 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **28** | 50% |
-| 🟡 Medium | **24** | 43% |
+| 🟢 Easy | **28** | 49% |
+| 🟡 Medium | **25** | 44% |
 | 🔴 Hard | **4** | 7% |
-| **Total** | **56** | — |
+| **Total** | **57** | — |
 
-🔥 **Latest Solved:** `Binary Tree Zigzag Level Order Traversal`
+🔥 **Latest Solved:** `Binary Tree Right Side View`
 
 ---
 
