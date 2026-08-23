@@ -4,7 +4,7 @@
 
 ### kV4RryCklc's DSA Progress — Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2022%2C%202026-8b5cf6?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2023%2C%202026-8b5cf6?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
@@ -15,11 +15,11 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-55-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-56-3b82f6?style=for-the-badge)
 &nbsp;
 ![Easy](https://img.shields.io/badge/Easy-28-22c55e?style=for-the-badge)
 &nbsp;
-![Medium](https://img.shields.io/badge/Medium-23-f59e0b?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-24-f59e0b?style=for-the-badge)
 &nbsp;
 ![Hard](https://img.shields.io/badge/Hard-4-ef4444?style=for-the-badge)
 
@@ -27,12 +27,12 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **28** | 51% |
-| 🟡 Medium | **23** | 42% |
+| 🟢 Easy | **28** | 50% |
+| 🟡 Medium | **24** | 43% |
 | 🔴 Hard | **4** | 7% |
-| **Total** | **55** | — |
+| **Total** | **56** | — |
 
-🔥 **Latest Solved:** `Palindrome Linked List`
+🔥 **Latest Solved:** `Binary Tree Zigzag Level Order Traversal`
 
 ---
 
