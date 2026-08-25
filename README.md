@@ -32,7 +32,7 @@
 | 🔴 Hard | **4** | 7% |
 | **Total** | **58** | — |
 
-🔥 **Latest Solved:** `Valid Palindrome II`
+🔥 **Latest Solved:** `Longest Palindromic Substring`
 
 ---
 
