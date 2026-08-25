@@ -15,11 +15,11 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-58-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-59-3b82f6?style=for-the-badge)
 &nbsp;
 ![Easy](https://img.shields.io/badge/Easy-29-22c55e?style=for-the-badge)
 &nbsp;
-![Medium](https://img.shields.io/badge/Medium-25-f59e0b?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-26-f59e0b?style=for-the-badge)
 &nbsp;
 ![Hard](https://img.shields.io/badge/Hard-4-ef4444?style=for-the-badge)
 
@@ -27,10 +27,10 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **29** | 50% |
-| 🟡 Medium | **25** | 43% |
+| 🟢 Easy | **29** | 49% |
+| 🟡 Medium | **26** | 44% |
 | 🔴 Hard | **4** | 7% |
-| **Total** | **58** | — |
+| **Total** | **59** | — |
 
 🔥 **Latest Solved:** `Palindromic Substrings`
 
