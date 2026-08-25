@@ -15,9 +15,9 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-57-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-58-3b82f6?style=for-the-badge)
 &nbsp;
-![Easy](https://img.shields.io/badge/Easy-28-22c55e?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-29-22c55e?style=for-the-badge)
 &nbsp;
 ![Medium](https://img.shields.io/badge/Medium-25-f59e0b?style=for-the-badge)
 &nbsp;
@@ -27,10 +27,10 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **28** | 49% |
-| 🟡 Medium | **25** | 44% |
+| 🟢 Easy | **29** | 50% |
+| 🟡 Medium | **25** | 43% |
 | 🔴 Hard | **4** | 7% |
-| **Total** | **57** | — |
+| **Total** | **58** | — |
 
 🔥 **Latest Solved:** `Valid Palindrome II`
 
