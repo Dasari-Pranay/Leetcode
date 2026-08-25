@@ -32,7 +32,7 @@
 | 🔴 Hard | **4** | 7% |
 | **Total** | **57** | — |
 
-🔥 **Latest Solved:** `Reverse String`
+🔥 **Latest Solved:** `Valid Palindrome II`
 
 ---
 
