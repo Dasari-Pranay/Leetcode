@@ -4,7 +4,7 @@
 
 ### kV4RryCklc's DSA Progress — Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2025%2C%202026-8b5cf6?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-September%208%2C%202026-8b5cf6?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
@@ -15,9 +15,9 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-59-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-60-3b82f6?style=for-the-badge)
 &nbsp;
-![Easy](https://img.shields.io/badge/Easy-29-22c55e?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-30-22c55e?style=for-the-badge)
 &nbsp;
 ![Medium](https://img.shields.io/badge/Medium-26-f59e0b?style=for-the-badge)
 &nbsp;
@@ -27,12 +27,12 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **29** | 49% |
-| 🟡 Medium | **26** | 44% |
+| 🟢 Easy | **30** | 50% |
+| 🟡 Medium | **26** | 43% |
 | 🔴 Hard | **4** | 7% |
-| **Total** | **59** | — |
+| **Total** | **60** | — |
 
-🔥 **Latest Solved:** `Palindromic Substrings`
+🔥 **Latest Solved:** `Count Commas in Range`
 
 ---
 
