@@ -4,7 +4,7 @@
 
 ### kV4RryCklc's DSA Progress — Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-September%208%2C%202026-8b5cf6?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-September%209%2C%202026-8b5cf6?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
@@ -32,7 +32,7 @@
 | 🔴 Hard | **4** | 7% |
 | **Total** | **60** | — |
 
-🔥 **Latest Solved:** `Count Commas in Range`
+🔥 **Latest Solved:** `Count Commas in Range II`
 
 ---
 
