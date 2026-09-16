@@ -15,11 +15,11 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-60-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-61-3b82f6?style=for-the-badge)
 &nbsp;
 ![Easy](https://img.shields.io/badge/Easy-30-22c55e?style=for-the-badge)
 &nbsp;
-![Medium](https://img.shields.io/badge/Medium-26-f59e0b?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-27-f59e0b?style=for-the-badge)
 &nbsp;
 ![Hard](https://img.shields.io/badge/Hard-4-ef4444?style=for-the-badge)
 
@@ -27,10 +27,10 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **30** | 50% |
-| 🟡 Medium | **26** | 43% |
+| 🟢 Easy | **30** | 49% |
+| 🟡 Medium | **27** | 44% |
 | 🔴 Hard | **4** | 7% |
-| **Total** | **60** | — |
+| **Total** | **61** | — |
 
 🔥 **Latest Solved:** `Two Sum II - Input Array Is Sorted`
 

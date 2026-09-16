@@ -67,8 +67,8 @@ java
 
 | Metric | Value |
 |--------|-------|
-| Runtime | N/A |
-| Memory  | N/A |
+| Runtime | 1 ms *(beats 100%)* |
+| Memory  | 48.5 MB *(beats 42%)* |
 
 ---
 
