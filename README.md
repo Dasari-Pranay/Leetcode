@@ -32,7 +32,7 @@
 | 🔴 Hard | **4** | 6% |
 | **Total** | **64** | — |
 
-🔥 **Latest Solved:** `Next Greater Element I`
+🔥 **Latest Solved:** `Valid Parentheses`
 
 ---
 
