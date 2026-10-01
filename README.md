@@ -4,7 +4,7 @@
 
 ### kV4RryCklc's DSA Progress — Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-September%2016%2C%202026-8b5cf6?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-October%201%2C%202026-8b5cf6?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
@@ -15,11 +15,11 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-61-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-64-3b82f6?style=for-the-badge)
 &nbsp;
-![Easy](https://img.shields.io/badge/Easy-30-22c55e?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-32-22c55e?style=for-the-badge)
 &nbsp;
-![Medium](https://img.shields.io/badge/Medium-27-f59e0b?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-28-f59e0b?style=for-the-badge)
 &nbsp;
 ![Hard](https://img.shields.io/badge/Hard-4-ef4444?style=for-the-badge)
 
@@ -27,12 +27,12 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **30** | 49% |
-| 🟡 Medium | **27** | 44% |
-| 🔴 Hard | **4** | 7% |
-| **Total** | **61** | — |
+| 🟢 Easy | **32** | 50% |
+| 🟡 Medium | **28** | 44% |
+| 🔴 Hard | **4** | 6% |
+| **Total** | **64** | — |
 
-🔥 **Latest Solved:** `3Sum`
+🔥 **Latest Solved:** `Next Greater Element I`
 
 ---
 
@@ -40,9 +40,9 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-10-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-11-3b82f6?style=for-the-badge)
 &nbsp;
-![Easy](https://img.shields.io/badge/Easy-5-22c55e?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-3-22c55e?style=for-the-badge)
 &nbsp;
 ![Medium](https://img.shields.io/badge/Medium-1-f59e0b?style=for-the-badge)
 &nbsp;
@@ -53,11 +53,11 @@
 | Difficulty | Solved |
 |:---:|:---:|
 | 🏫 School | **0** |
-| 📗 Basic | **4** |
-| 🟢 Easy | **5** |
+| 📗 Basic | **7** |
+| 🟢 Easy | **3** |
 | 🟡 Medium | **1** |
 | 🔴 Hard | **0** |
-| **Total** | **10** |
+| **Total** | **11** |
 
 🔥 **Latest Solved:** `—`
 
