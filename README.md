@@ -15,11 +15,11 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-64-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-65-3b82f6?style=for-the-badge)
 &nbsp;
 ![Easy](https://img.shields.io/badge/Easy-32-22c55e?style=for-the-badge)
 &nbsp;
-![Medium](https://img.shields.io/badge/Medium-28-f59e0b?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-29-f59e0b?style=for-the-badge)
 &nbsp;
 ![Hard](https://img.shields.io/badge/Hard-4-ef4444?style=for-the-badge)
 
@@ -27,10 +27,10 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **32** | 50% |
-| 🟡 Medium | **28** | 44% |
+| 🟢 Easy | **32** | 49% |
+| 🟡 Medium | **29** | 45% |
 | 🔴 Hard | **4** | 6% |
-| **Total** | **64** | — |
+| **Total** | **65** | — |
 
 🔥 **Latest Solved:** `Generate Parentheses`
 
