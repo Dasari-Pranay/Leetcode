@@ -32,7 +32,7 @@
 | 🔴 Hard | **4** | 6% |
 | **Total** | **65** | — |
 
-🔥 **Latest Solved:** `Generate Parentheses`
+🔥 **Latest Solved:** `Daily Temperatures`
 
 ---
 
