@@ -4,7 +4,7 @@
 
 ### kV4RryCklc's DSA Progress — Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202%2C%202026-8b5cf6?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-October%203%2C%202026-8b5cf6?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
@@ -15,13 +15,13 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-66-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-67-3b82f6?style=for-the-badge)
 &nbsp;
 ![Easy](https://img.shields.io/badge/Easy-32-22c55e?style=for-the-badge)
 &nbsp;
 ![Medium](https://img.shields.io/badge/Medium-30-f59e0b?style=for-the-badge)
 &nbsp;
-![Hard](https://img.shields.io/badge/Hard-4-ef4444?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-5-ef4444?style=for-the-badge)
 
 </div>
 
@@ -29,10 +29,10 @@
 |:---:|:---:|:---:|
 | 🟢 Easy | **32** | 48% |
 | 🟡 Medium | **30** | 45% |
-| 🔴 Hard | **4** | 6% |
-| **Total** | **66** | — |
+| 🔴 Hard | **5** | 7% |
+| **Total** | **67** | — |
 
-🔥 **Latest Solved:** `Daily Temperatures`
+🔥 **Latest Solved:** `Longest Valid Parentheses`
 
 ---
 
