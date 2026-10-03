@@ -15,11 +15,11 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-68-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-69-3b82f6?style=for-the-badge)
 &nbsp;
 ![Easy](https://img.shields.io/badge/Easy-32-22c55e?style=for-the-badge)
 &nbsp;
-![Medium](https://img.shields.io/badge/Medium-31-f59e0b?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-32-f59e0b?style=for-the-badge)
 &nbsp;
 ![Hard](https://img.shields.io/badge/Hard-5-ef4444?style=for-the-badge)
 
@@ -27,12 +27,12 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **32** | 47% |
-| 🟡 Medium | **31** | 46% |
+| 🟢 Easy | **32** | 46% |
+| 🟡 Medium | **32** | 46% |
 | 🔴 Hard | **5** | 7% |
-| **Total** | **68** | — |
+| **Total** | **69** | — |
 
-🔥 **Latest Solved:** `Asteroid Collision`
+🔥 **Latest Solved:** `Basic Calculator II`
 
 ---
 
