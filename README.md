@@ -32,7 +32,7 @@
 | 🔴 Hard | **5** | 7% |
 | **Total** | **70** | — |
 
-🔥 **Latest Solved:** `Valid Parenthesis String`
+🔥 **Latest Solved:** `Basic Calculator II`
 
 ---
 
