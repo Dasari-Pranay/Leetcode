@@ -9,10 +9,10 @@ class Solution {
                 else if(stack.peek() == '('){
                     stack.pop();
                 }else{
-                    stack.push('(');
+                    stack.push(s.charAt(i));
                 }
             }else{
-                stack.push('(');
+                stack.push(s.charAt(i));
             }
         }
         return stack.size();
