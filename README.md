@@ -4,7 +4,7 @@
 
 ### kV4RryCklc's DSA Progress — Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-October%206%2C%202026-8b5cf6?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-October%207%2C%202026-8b5cf6?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
@@ -32,7 +32,7 @@
 | 🔴 Hard | **5** | 7% |
 | **Total** | **72** | — |
 
-🔥 **Latest Solved:** `Minimum Add to Make Parentheses Valid`
+🔥 **Latest Solved:** `Remove Invalid Parentheses`
 
 ---
 
@@ -40,11 +40,11 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-11-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-13-3b82f6?style=for-the-badge)
 &nbsp;
 ![Easy](https://img.shields.io/badge/Easy-3-22c55e?style=for-the-badge)
 &nbsp;
-![Medium](https://img.shields.io/badge/Medium-1-f59e0b?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-3-f59e0b?style=for-the-badge)
 &nbsp;
 ![Hard](https://img.shields.io/badge/Hard-0-ef4444?style=for-the-badge)
 
@@ -55,9 +55,9 @@
 | 🏫 School | **0** |
 | 📗 Basic | **7** |
 | 🟢 Easy | **3** |
-| 🟡 Medium | **1** |
+| 🟡 Medium | **3** |
 | 🔴 Hard | **0** |
-| **Total** | **11** |
+| **Total** | **13** |
 
 🔥 **Latest Solved:** `—`
 
