@@ -24,7 +24,7 @@ class Solution {
                     if(ch != '(' && ch != ')'){
                         continue;
                     }
-                    String next = current.subString(0,j) + current.subString(j+1);
+                    String next = current.substring(0,j) + current.substring(j+1);
                     if(!visited.contains(next)){
                         visited.add(next);
                         queue.offer(next);
