@@ -4,7 +4,7 @@
 
 ### kV4RryCklc's DSA Progress — Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-October%207%2C%202026-8b5cf6?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-October%208%2C%202026-8b5cf6?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
@@ -15,9 +15,9 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-73-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-74-3b82f6?style=for-the-badge)
 &nbsp;
-![Easy](https://img.shields.io/badge/Easy-32-22c55e?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-33-22c55e?style=for-the-badge)
 &nbsp;
 ![Medium](https://img.shields.io/badge/Medium-35-f59e0b?style=for-the-badge)
 &nbsp;
@@ -27,12 +27,12 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **32** | 44% |
-| 🟡 Medium | **35** | 48% |
+| 🟢 Easy | **33** | 45% |
+| 🟡 Medium | **35** | 47% |
 | 🔴 Hard | **6** | 8% |
-| **Total** | **73** | — |
+| **Total** | **74** | — |
 
-🔥 **Latest Solved:** `Remove Invalid Parentheses`
+🔥 **Latest Solved:** `Remove Outermost Parentheses`
 
 ---
 
