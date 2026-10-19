@@ -4,7 +4,7 @@
 
 ### kV4RryCklc's DSA Progress — Auto-tracked by [SyncLeetX](https://chromewebstore.google.com/detail/syncleetx/dcnjkjgbpogajgdcbafc1hmgeobkjlan)
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-October%209%2C%202026-8b5cf6?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-October%2019%2C%202026-8b5cf6?style=flat-square)
 ![Powered by](https://img.shields.io/badge/Powered%20by-SyncLeetX-0f172a?style=flat-square&logo=google-chrome&logoColor=white)
 
 </div>
@@ -15,24 +15,24 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-75-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-80-3b82f6?style=for-the-badge)
 &nbsp;
-![Easy](https://img.shields.io/badge/Easy-33-22c55e?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-35-22c55e?style=for-the-badge)
 &nbsp;
-![Medium](https://img.shields.io/badge/Medium-36-f59e0b?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-38-f59e0b?style=for-the-badge)
 &nbsp;
-![Hard](https://img.shields.io/badge/Hard-6-ef4444?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-7-ef4444?style=for-the-badge)
 
 </div>
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **33** | 44% |
-| 🟡 Medium | **36** | 48% |
-| 🔴 Hard | **6** | 8% |
-| **Total** | **75** | — |
+| 🟢 Easy | **35** | 44% |
+| 🟡 Medium | **38** | 48% |
+| 🔴 Hard | **7** | 9% |
+| **Total** | **80** | — |
 
-🔥 **Latest Solved:** `Minimum Insertions to Balance a Parentheses String`
+🔥 **Latest Solved:** `Find Target Indices After Sorting Array`
 
 ---
 
