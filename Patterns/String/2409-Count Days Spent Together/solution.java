@@ -1,3 +1,4 @@
+//O(1)/O(1)
 class Solution {
     public int countDaysTogether(String arriveAlice, String leaveAlice, String arriveBob, String leaveBob) {
         int[] datesOfMonth = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
