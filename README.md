@@ -15,9 +15,9 @@
 
 <div align="center">
 
-![Total](https://img.shields.io/badge/Total%20Solved-81-3b82f6?style=for-the-badge)
+![Total](https://img.shields.io/badge/Total%20Solved-82-3b82f6?style=for-the-badge)
 &nbsp;
-![Easy](https://img.shields.io/badge/Easy-36-22c55e?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-37-22c55e?style=for-the-badge)
 &nbsp;
 ![Medium](https://img.shields.io/badge/Medium-38-f59e0b?style=for-the-badge)
 &nbsp;
@@ -27,12 +27,12 @@
 
 | Difficulty | Solved | Share |
 |:---:|:---:|:---:|
-| 🟢 Easy | **36** | 44% |
-| 🟡 Medium | **38** | 47% |
+| 🟢 Easy | **37** | 45% |
+| 🟡 Medium | **38** | 46% |
 | 🔴 Hard | **7** | 9% |
-| **Total** | **81** | — |
+| **Total** | **82** | — |
 
-🔥 **Latest Solved:** `Two Sum II - Input Array Is Sorted`
+🔥 **Latest Solved:** `Count Days Spent Together`
 
 ---
 
