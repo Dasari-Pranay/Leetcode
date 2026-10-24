@@ -20,9 +20,11 @@ https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
 ## Problem Statement
 
-Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length.
+You are given a 1-indexed array of integers numbers that is already sorted in non-decreasing order.
 
-Return the indices of the two numbers index1 and index2, each incremented by one, as an integer array [index1, index2] of length 2.
+Find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length.
+
+Return the indices of the two numbers index1 and index2 as an integer array [index1, index2] of length 2.
 
 The tests are generated such that there is exactly one solution. You may not use the same element twice.
 
@@ -67,8 +69,8 @@ java
 
 | Metric | Value |
 |--------|-------|
-| Runtime | 1 ms *(beats 100%)* |
-| Memory  | 48.5 MB *(beats 42%)* |
+| Runtime | 2 ms *(beats 97%)* |
+| Memory  | 48.1 MB *(beats 89%)* |
 
 ---
 

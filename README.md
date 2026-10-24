@@ -32,7 +32,7 @@
 | 🔴 Hard | **7** | 9% |
 | **Total** | **81** | — |
 
-🔥 **Latest Solved:** `Contains Duplicate`
+🔥 **Latest Solved:** `Two Sum II - Input Array Is Sorted`
 
 ---
 

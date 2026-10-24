@@ -1,3 +1,4 @@
+//O(n),O(1)
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int left = 0;
